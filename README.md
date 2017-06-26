@@ -8,6 +8,8 @@ Our database initial will look like this ...
 
 ![image of database](https://github.com/marioiovanna/MySQL-Bieber/tree/master/pics_readme/database.PNG)
 
+
+
 ### Costumer use:
 We have to start node, as **$ node bieBayCustomer.js**. 
 
