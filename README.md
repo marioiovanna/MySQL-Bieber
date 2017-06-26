@@ -6,7 +6,7 @@ This app works on node.js, with MySQL database link.
 
 Our database initial will look like this ...
 
-![image of database](https://github.com/marioiovanna/MySQL-Bieber/tree/master/pics_readme/database.PNG)
+![image of database](https://github.com/marioiovanna/MySQL-Bieber/blob/master/pics_readme/database.PNG)
 
 
 
