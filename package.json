@@ -1,0 +1,24 @@
+{
+  "name": "bieber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bieBayCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioiovanna/MySQL-Bieber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marioiovanna/MySQL-Bieber/issues"
+  },
+  "homepage": "https://github.com/marioiovanna/MySQL-Bieber#readme",
+  "dependencies": {
+    "inquirer": "^3.1.1",
+    "inquirer-confirm": "^0.2.2",
+    "mysql": "^2.13.0"
+  }
+}
