@@ -17,7 +17,7 @@ We have to start node, as **$ node bieBayCustomer.js**.
 
 3- Finally will let you know your total for the sale.... 
 
-(if the amount is over the stock on the store will show you a warning and ask you again for the quantity)
+(if the amount is over the stock on the store, it will show you a warning and ask you again for the quantity)
 
 ![image of customer](https://github.com/marioiovanna/MySQL-Bieber/blob/master/Readme%20Picts/Costumer3.PNG)
 
@@ -27,23 +27,23 @@ We have start node as **$ node bieBayManager.js**.
 
 1- It will prompt your choices on a list.
 
-![image of customer](https://github.com/marioiovanna/MySQL-Bieber/blob/master/Readme%20Picts/manager1.PNG)
+![image of customer](https://github.com/marioiovanna/MySQL-Bieber/blob/master/Readme%20Picts/Manager1.PNG)
 
 2- When you select an option will display your selection function and it will ask you if you want to select another function from the choices.
 
-![image of customer](https://github.com/marioiovanna/MySQL-Bieber/blob/master/Readme%20Picts/manager2.PNG)
+![image of customer](https://github.com/marioiovanna/MySQL-Bieber/blob/master/Readme%20Picts/Manager2.PNG)
 
 For **ADD TO INVENTORY**, it will ask you which product you want to modify stock...
 
-![image of customer](https://github.com/marioiovanna/MySQL-Bieber/blob/master/Readme%20Picts/manager3.PNG)
+![image of customer](https://github.com/marioiovanna/MySQL-Bieber/blob/master/Readme%20Picts/Manager3.PNG)
 
 You have to enter the **TOTAL** for the stock, adding the previous stock. If it is succesfully update it will display a comment.
 
-![image of customer](https://github.com/marioiovanna/MySQL-Bieber/blob/master/Readme%20Picts/manager4.PNG)
+![image of customer](https://github.com/marioiovanna/MySQL-Bieber/blob/master/Readme%20Picts/Manager4.PNG)
 
 And we will check on the stock and it will be reflected...
 
-![image of customer](https://github.com/marioiovanna/MySQL-Bieber/blob/master/Readme%20Picts/manager5.PNG)
+![image of customer](https://github.com/marioiovanna/MySQL-Bieber/blob/master/Readme%20Picts/Manager5.PNG)
 
 
 
