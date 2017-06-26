@@ -52,7 +52,7 @@ And we will check on the stock and it will be reflected...
 ![image of customer](https://github.com/marioiovanna/MySQL-Bieber/blob/master/pics_readme/Manager5.PNG)
 
 
-For a simple DEMO of the app see the link here [LINK TO VIDEO] (https://github.com/marioiovanna/MySQL-Bieber/blob/master/video_demo.mkv)
+For a simple DEMO of the app see the link here [LINK TO VIDEO](https://github.com/marioiovanna/MySQL-Bieber/blob/master/video_demo.mkv)
 
 
 
